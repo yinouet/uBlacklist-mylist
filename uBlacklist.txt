@@ -1,0 +1,9 @@
+*://*.info.com/*
+*://techacademy.jp/*
+*://www.sejuku.net/*
+*://www.vapejp.net/*
+*://ichi.pro/*
+*://www.wikiwand.com/*
+*://www.fonepaw.com/*
+*://tech-camp.in/*
+*://*.shein.com/*
